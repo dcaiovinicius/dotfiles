@@ -1,7 +1,7 @@
-$dotfiles = Dir.home + "/.dotfiles/"
+DOTFILES = Dir.home + "/.dotfiles/"
 
 def create_symlink(filename)
-  source = File.expand_path($dotfiles + filename, __FILE__)
+  source = File.expand_path(DOTFILES + filename, __FILE__)
   target = Dir.home + "/#{filename}" 
   
   File.symlink(source, target)
