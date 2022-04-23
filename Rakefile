@@ -21,6 +21,3 @@ task :uninstall do
   unlink('.vimrc')
 end
 
-task :test do
-  puts "Hello, world"
-end
