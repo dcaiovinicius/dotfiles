@@ -7,3 +7,8 @@ set encoding=utf-8
 set fileencoding=utf-8
 set fileencodings=utf-8
 
+" Searching
+set hlsearch
+set smartcase
+set ignorecase
+set incsearch
