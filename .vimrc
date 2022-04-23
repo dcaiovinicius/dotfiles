@@ -1,6 +1,11 @@
 " Basic setup
+
+" Visual Settings
 set number
 syntax on
+set ruler
+set laststatus=2
+colorscheme slate
 
 " Encoding
 set encoding=utf-8
