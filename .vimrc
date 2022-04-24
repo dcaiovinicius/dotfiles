@@ -4,7 +4,7 @@
 source $HOME/.dotfiles/vim/plug.vim
 
 " Settings
-source $HOME/.dotfiles/vim/nerdtree.vim
+source $HOME/.dotfiles/vim/settings.vim
 
 " Basic setup
 " Visual Settings
