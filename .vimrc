@@ -12,6 +12,9 @@ set laststatus=2
 set background=dark
 colorscheme gruvbox
 
+" mouse support
+set mouse=a
+
 " Encoding
 set encoding=utf-8
 set fileencoding=utf-8
