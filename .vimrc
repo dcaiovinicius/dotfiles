@@ -3,6 +3,9 @@
 " Plug
 source $HOME/.dotfiles/vim/plug.vim
 
+" Settings
+source $HOME/.dotfiles/vim/nerdtree.vim
+
 " Basic setup
 " Visual Settings
 set number
