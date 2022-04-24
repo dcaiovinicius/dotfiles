@@ -29,3 +29,6 @@ set expandtab
 
 filetype plugin on
 filetype indent on
+
+" Imports
+source $HOME/.dotfiles/vim/plug.vim
