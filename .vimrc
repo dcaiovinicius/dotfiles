@@ -1,11 +1,16 @@
-" Basic setup
+" Imports
 
+" Plug
+source $HOME/.dotfiles/vim/plug.vim
+
+" Basic setup
 " Visual Settings
 set number
 syntax on
 set ruler
 set laststatus=2
-colorscheme slate
+set background=dark
+colorscheme gruvbox
 
 " Encoding
 set encoding=utf-8
@@ -30,5 +35,3 @@ set expandtab
 filetype plugin on
 filetype indent on
 
-" Imports
-source $HOME/.dotfiles/vim/plug.vim
