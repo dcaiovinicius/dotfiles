@@ -9,3 +9,4 @@ How to install?
 ```
   rake install
 ```
+<img src="screenshot.png" /> 
